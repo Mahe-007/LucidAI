@@ -1,0 +1,2 @@
+# LucidAI
+AI Assistant
